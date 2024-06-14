@@ -14,10 +14,6 @@
     "qrcode"
   ],
   "main": "./lib/index.js",
-  "browser": {
-    "./lib/index.js": "./lib/browser.js",
-    "fs": false
-  },
   "files": [
     "bin",
     "build",
